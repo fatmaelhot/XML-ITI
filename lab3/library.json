@@ -1,0 +1,56 @@
+{
+    "library": {
+      "introduction": "&intro;",
+      "location": "Cairo",
+      "description": "The Public Library is a premier public library system .",
+      "librarian": {
+        "name": "fatma nasser",
+        "contact": "fatma@gmail.com"
+      },
+      "books": {
+        "book": [
+          {
+            "title": "book1",
+            "ISBN": "9780141182636",
+            "author": "Fatma",
+            "preface": "The book1 is a novel written by author Fatma that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+            "parts": {
+              "part": {
+                "title": "Part 1",
+                "chapters": {
+                  "chapter": {
+                    "title": "Chapter 1",
+                    "summary": "In Chapter 1, the narrator, Nick Carraway, introduces himself and describes his background, including his upbringing and education.",
+                    "sections": {
+                      "section": "The Great Gatsby opens with Nick Carraway, the novel's narrator, reflecting on advice given to him by his father: \"Whenever you feel like criticizing anyone, just remember that all the people in this world haven't had the advantages that you've had.\" This sets the tone for Nick's narration throughout the novel."
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "title": "book1",
+            "ISBN": "9780141182636",
+            "author": "Fatma",
+            "preface": "The book1 is a novel written by author Fatma that follows a cast of characters living in the fictional towns of West Egg and East Egg on prosperous Long Island in the summer of 1922.",
+            "parts": {
+              "part": {
+                "title": "Part 1",
+                "chapters": {
+                  "chapter": {
+                    "title": "Chapter 1",
+                    "summary": "In Chapter 1, the narrator, Nick Carraway, introduces himself and describes his background, including his upbringing and education.",
+                    "sections": {
+                      "section": "The Great Gatsby opens with Nick Carraway, the novel's narrator, reflecting on advice given to him by his father: \"Whenever you feel like criticizing anyone, just remember that all the people in this world haven't had the advantages that you've had.\" This sets the tone for Nick's narration throughout the novel."
+                    }
+                  }
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+  
